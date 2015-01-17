@@ -1,0 +1,1 @@
+$("#main").append("Trainee JavaScript Code Monkey");
